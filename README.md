@@ -18,4 +18,4 @@ If you run `tests.ipynb` in mybinder, you should be able to see test results at 
 the first test case for the fit function checks whether the function duration exceeds the duration of the test 120%, which should not be the case. Therefore, the test will fail otherwise. You can run the tests to see the results at the end.
 
 the predict test case tests if the obtained accuracy matched the model accuracy used in the training and evaluation process. This should match since a seed is used
-to provide the same results for the model
+to provide the same results for the model..
